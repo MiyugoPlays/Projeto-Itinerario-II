@@ -1,0 +1,7 @@
+com/example/didatico/repository/VideoRepository.class
+com/example/didatico/model/Video.class
+com/example/didatico/model/Ebook.class
+com/example/didatico/repository/EbookRepository.class
+com/example/didatico/DidaticoApplication.class
+com/example/didatico/controller/VideoController.class
+com/example/didatico/controller/EbookController.class
